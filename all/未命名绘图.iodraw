@@ -29,7 +29,7 @@
           <mxGeometry x="552" y="1294" width="215" height="67" as="geometry" />
         </mxCell>
         <mxCell id="5-0CQATRsZ9Cq2w7chum-9" value="安徽省城市生命线&#xa;安全工程推广应用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="566" y="1458" width="188" height="67" as="geometry" />
+          <mxGeometry x="160" y="1458" width="920" height="67" as="geometry" />
         </mxCell>
         <mxCell id="5-0CQATRsZ9Cq2w7chum-10" value="提供模型约束" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.37;entryY=-0.01;rounded=0;" edge="1" parent="1" source="5-0CQATRsZ9Cq2w7chum-3" target="5-0CQATRsZ9Cq2w7chum-6">
           <mxGeometry relative="1" as="geometry">
